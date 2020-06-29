@@ -1,8 +1,3 @@
-
----
-title: Home
----
-  
 ## [Title Hello](hello.md)
 
 Title Hello is creat in 2020/01/01, url-id is hello
